@@ -1,4 +1,4 @@
 # FirstRepo
 this is my first repository
 <br>
-author akanksha mhaske
+author akanksha mhaske(as)
